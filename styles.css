@@ -1,5 +1,19 @@
 /* CSS Document */
 
 h1{
-	color: hotpink;
+	color: green;
+}
+
+h2{
+	color: green;
+}
+
+p{
+	color: green;
+}
+
+body{
+	background: black;
+}
+@media (max-width : 1187px ){
 }
